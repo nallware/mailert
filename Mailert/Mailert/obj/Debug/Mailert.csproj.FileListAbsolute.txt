@@ -48,3 +48,15 @@ C:\Users\knall\Documents\DropBox\Dropbox\Apps\Mailert\Mailert\obj\Debug\Mailert.
 C:\Users\knall\Documents\DropBox\Dropbox\Apps\Mailert2\Mailert\bin\Debug\Mailert.exe.config
 C:\Users\knall\Documents\DropBox\Dropbox\Apps\Mailert2\Mailert\obj\Debug\Mailert.exe
 C:\Users\knall\Documents\DropBox\Dropbox\Apps\Mailert2\Mailert\obj\Debug\Mailert.pdb
+C:\Users\knall\Documents\VS15Projects_Local\MYDEV\Mailert\Mailert\Mailert\bin\Debug\Mailert.exe.config
+C:\Users\knall\Documents\VS15Projects_Local\MYDEV\Mailert\Mailert\Mailert\obj\Debug\Mailert.exe
+C:\Users\knall\Documents\VS15Projects_Local\MYDEV\Mailert\Mailert\Mailert\obj\Debug\Mailert.pdb
+C:\Users\knall\Documents\VS15Projects_Local\MYDEV\Mailert\Mailert\Mailert\bin\Debug\Mailert.exe.manifest
+C:\Users\knall\Documents\VS15Projects_Local\MYDEV\Mailert\Mailert\Mailert\bin\Debug\Mailert.application
+C:\Users\knall\Documents\VS15Projects_Local\MYDEV\Mailert\Mailert\Mailert\bin\Debug\Mailert.exe
+C:\Users\knall\Documents\VS15Projects_Local\MYDEV\Mailert\Mailert\Mailert\bin\Debug\Mailert.pdb
+C:\Users\knall\Documents\VS15Projects_Local\MYDEV\Mailert\Mailert\Mailert\obj\Debug\Mailert.Form1.resources
+C:\Users\knall\Documents\VS15Projects_Local\MYDEV\Mailert\Mailert\Mailert\obj\Debug\Mailert.Properties.Resources.resources
+C:\Users\knall\Documents\VS15Projects_Local\MYDEV\Mailert\Mailert\Mailert\obj\Debug\Mailert.csproj.GenerateResource.Cache
+C:\Users\knall\Documents\VS15Projects_Local\MYDEV\Mailert\Mailert\Mailert\obj\Debug\Mailert.exe.manifest
+C:\Users\knall\Documents\VS15Projects_Local\MYDEV\Mailert\Mailert\Mailert\obj\Debug\Mailert.application

@@ -52,7 +52,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>mailert3.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>23ADE5FF813CE95B3C489C0EE0DA7C8C2B790E9A</ManifestCertificateThumbprint>
@@ -120,10 +121,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="mailert.ico" />
-    <Content Include="mailert1.ico" />
-    <Content Include="mailert2.ico" />
-    <Content Include="mailert3.ico" />
     <EmbeddedResource Include="Resources\mailert.ico" />
     <EmbeddedResource Include="Resources\wobot1.png" />
     <EmbeddedResource Include="Resources\msgInfo15.png" />
