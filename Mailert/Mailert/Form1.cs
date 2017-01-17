@@ -26,9 +26,10 @@ namespace Mailert
             this.Hide();
             notifyIcon1.BalloonTipText = "End Process.";
             //notifyIcon1.BalloonTipTitle = "End";
-            version = System.Reflection.Assembly.GetExecutingAssembly().GetName().Version.ToString();
+            
+            //version = System.Reflection.Assembly.GetExecutingAssembly().GetName().Version.ToString();
             label4.Text = "Ver " + version;
-            notifyIcon1.Text = "Mailert Email Notifier" + Environment.NewLine + "Ver " + version;
+            notifyIcon1.Text = "Mailert Email Notifier" + Environment.NewLine + "Ver" + version;
 
 
         }
